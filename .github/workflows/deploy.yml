@@ -1,4 +1,4 @@
-name: Deploy TCIOE Website to VPS
+name: Deploy RAC Website
 on:
   push:
     branches: [main]
